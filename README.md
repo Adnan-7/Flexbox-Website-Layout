@@ -1,4 +1,4 @@
-git@github.com:Adnan-7/Flexbox-Website-Layout.git
+## Flexbox Website Layout
 
 Flexbox is a relatively new front-end feature that makes building a website layout (and making it responsive!) much, much easier than it used to be.
 
